@@ -1,0 +1,2 @@
+
+int outlight (void);

@@ -1,0 +1,2 @@
+
+int lightdetect (void);
